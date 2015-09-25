@@ -7,8 +7,10 @@ import android.view.MenuItem;
 
 public class Main2Activity extends AppCompatActivity
 {
-
-    // Test !!!
+    private String now()
+    {
+        return new java.util.Date().toString();
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
