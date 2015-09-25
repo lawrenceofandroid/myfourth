@@ -8,6 +8,8 @@ import android.view.MenuItem;
 public class Main2Activity extends AppCompatActivity
 {
 
+    // Test !!!
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
